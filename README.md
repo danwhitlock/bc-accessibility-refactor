@@ -1,4 +1,4 @@
-This is an exercise to update an example marketing agency web page to improve accessibility.
+This is an exercise I have undertaken to update an example marketing agency web page to improve accessibility.
 
 I have refactored the starter code in order to make it more accessible, ensuring -  
 
@@ -12,4 +12,5 @@ This has been done without impacting the appearance of the web page, which must 
 
 ![A mock up showing how the web page should look](assets/images/mock-up.png)
 
-The finished page has been deployed to GitHub Pages here -
+The finished page has been deployed to GitHub Pages here - 
+
