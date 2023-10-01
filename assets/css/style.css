@@ -94,6 +94,8 @@ section h2 {
     font-size: 36px;
 }
 
+/* SECTION/ARTICLES - Control position of images */
+
 .float-left {
     float: left;
     margin-right: 25px;
